@@ -187,3 +187,7 @@ button{
 	background-color: crimson;
 	color: white;
 }
+.dm{
+	text-align: center;
+	display: block;
+}
